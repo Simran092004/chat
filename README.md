@@ -87,7 +87,7 @@ http://localhost:3000
 ![Home](homewa.png)
 
 ## 💬 Edit Chat
-![Edit](editwa.png)
+![Edit](ediwa.png)
 
 ## ✏️ Create Chat
 ![Create](createwa.png)
