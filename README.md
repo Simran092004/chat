@@ -121,7 +121,7 @@ Through this project, I learned:
 
 # 👨‍💻 Author
 
-### Simran Gunwal
+### Simran
 B.Tech Student | Full Stack Developer
 
 GitHub:
